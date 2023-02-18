@@ -21,4 +21,17 @@ This repository contains all my project that I created during learning c++
 
 ! Use Makefiles for building programs
 
+## C++ standard drafts
+https://www.open-std.org/jtc1/sc22/wg21/docs/standards
 
+# Structure of a program
+* sequence of instructions
+* statement = type of instruction
+
+## Comments 
+* At the library, program, or function level, use comments to describe what.
+* Inside the library, program, or function, use comments to describe how.
+* At the statement level, use comments to describe why.
+
+## Objects and variables
+In C++, we use variables to access memory. Variables have an identifier, a type, and a value (and some other attributes that aren’t relevant here). A variable’s type is used to determine how the value in memory should be interpreted.
